@@ -1,4 +1,11 @@
+@font-face {
+  font-family: 'Quicksand';
+  src: url('./Quicksand-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
 .hello {
   color: red;
+  font-family: 'Quicksand';
   background: url('./icon.png');
 }
